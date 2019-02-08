@@ -24,13 +24,13 @@ const siteConfig = {
   title: "BCU Data Collection", // Title for your website.
   tagline: "Documentation",
   url: "https://msdcanderson.github.io", // Your website URL
-  baseUrl: "/bcu-docs/", // Base URL for your project */
+  baseUrl: "/bcu/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: "bcu-docs",
+  projectName: "bcu",
   organizationName: "msdcanderson",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...

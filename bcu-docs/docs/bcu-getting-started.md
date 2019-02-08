@@ -6,4 +6,4 @@ sidebar_label: BCU-Survey Getting Started
 
 # Header
 
-Some text
+Some more text 

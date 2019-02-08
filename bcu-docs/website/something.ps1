@@ -1,4 +1,1 @@
-set GIT_USER=msdcanderson
-set CURRENT_BRANCH=master
-set USE_SSH=true
-npm run publish-gh-pages
+GIT_USER=msdcanderson CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
