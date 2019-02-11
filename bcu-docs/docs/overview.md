@@ -4,7 +4,7 @@ title: Overview BCU Data Collection
 sidebar_label: Overview
 ---
 
-# Overview
+# Introduction
 
 ## BCU-Survey
 
@@ -28,7 +28,9 @@ In order to access the survey more than once when your email address has been us
 I will provide you with a list of tokens. Each token can only be used once.
 
 Replace the string `< your token here >` in this URL, and then navigate to the URL:
-https://bcu-survey.growmycompany.co.uk/index.php/692579?token=< your token here >&newtest=Y&lang=en
+`https://bcu-survey.growmycompany.co.uk/index.php/692579?token=< your token here >&newtest=Y&lang=en`
+
+A correct URL looks like: `https://bcu-survey.growmycompany.co.uk/index.php/692579?token=sEPydPwx9Xh4q1C&newtest=Y&lang=en`
 
 ## BCU-Metabase
 
