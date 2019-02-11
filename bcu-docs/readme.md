@@ -10,5 +10,8 @@ Using Git Bash:
 
 ```cmd
 cd /c/users/michael/repo/bcu/bcu-docs/website
-GIT_USER=msdcanderson CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
+export GIT_USER=msdcanderson
+export CURRENT_BRANCH=master
+export USE_SSH=true
+npm run publish-gh-pages
 ```
