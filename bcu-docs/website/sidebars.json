@@ -1,5 +1,18 @@
 {
   "docs": {
-    "Overview": ["overview"]
+    "LimeSurvey": [
+      "overview",
+      {
+        "type": "subcategory",
+        "label": "Editing surveys",
+        "ids": ["edit-text"]
+      },
+      {
+        "type": "subcategory",
+        "label": "Managing surveys",
+        "ids": ["securing-surveys", "duplicate-survey"]
+      }
+    ],
+    "Infrastructure": ["infrastructure"]
   }
 }

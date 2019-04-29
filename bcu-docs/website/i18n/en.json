@@ -9,6 +9,22 @@
         "title": "BCU-Survey Getting Started",
         "sidebar_label": "BCU-Survey Getting Started"
       },
+      "duplicate-survey": {
+        "title": "Duplicate survey",
+        "sidebar_label": "Duplicate survey"
+      },
+      "securing-surveys": {
+        "title": "Securing surveys",
+        "sidebar_label": "Securing surveys"
+      },
+      "edit-text": {
+        "title": "Editing survey text",
+        "sidebar_label": "Editing survey text"
+      },
+      "infrastructure": {
+        "title": "Infrastructure",
+        "sidebar_label": "Infrastructure"
+      },
       "overview": {
         "title": "Overview BCU Data Collection",
         "sidebar_label": "Overview"
@@ -18,7 +34,8 @@
       "Docs": "Docs"
     },
     "categories": {
-      "Overview": "Overview"
+      "LimeSurvey": "LimeSurvey",
+      "Infrastructure": "Infrastructure"
     }
   },
   "pages-strings": {
