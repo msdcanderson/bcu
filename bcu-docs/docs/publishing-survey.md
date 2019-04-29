@@ -4,6 +4,6 @@ title: Publishing / Unpublishing Survey
 sidebar_label: Publishing / Unpublishing Survey
 ---
 
-# Header
+## Publish / unpublish survey
 
-Some more text 
+A survey can be both published and unpublished either manually, or at a set date/time, see: [Publication & Access](https://manual.limesurvey.org/Publication_%26_access).
