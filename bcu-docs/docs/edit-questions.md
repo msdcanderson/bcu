@@ -14,7 +14,7 @@ Questions have been grouped into [Groups](https://manual.limesurvey.org/Question
 
 The results for the Framework sections are calculated using LimeSurvey's [Expression Manager](https://manual.limesurvey.org/Expression_Manager), in particular, the question type: [Equation](https://manual.limesurvey.org/Expression_Manager#Equations_2).
 
-Each Framework has 5 equations needed to calculate the Framework section's:
+Each Framework has 5 equations needed to calculate the 'Framework section's':
 
 - label (for the dashboard)
 - score
