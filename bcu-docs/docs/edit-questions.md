@@ -43,7 +43,3 @@ Key:
 | x    | incremental number (1, 2, 3, ...)                 |
 | a    | incremental letters (a, b, c, ...)                |
 | f    | first letter of each word in the framework's name |
-
-## Version control
-
-[TODO]

@@ -9,6 +9,14 @@
         "title": "BCU-Survey Getting Started",
         "sidebar_label": "BCU-Survey Getting Started"
       },
+      "blank-template": {
+        "title": "Blank Template",
+        "sidebar_label": "Blank Template"
+      },
+      "duplicate-dashboard": {
+        "title": "Duplicate dashboard",
+        "sidebar_label": "Duplicate dashboard"
+      },
       "duplicate-survey": {
         "title": "Duplicate survey",
         "sidebar_label": "Duplicate survey"
@@ -25,6 +33,10 @@
         "title": "Infrastructure",
         "sidebar_label": "Infrastructure"
       },
+      "mb-overview": {
+        "title": "Overview",
+        "sidebar_label": "Overview"
+      },
       "overview": {
         "title": "Overview BCU Data Collection",
         "sidebar_label": "Overview"
@@ -36,6 +48,10 @@
       "securing-surveys": {
         "title": "Securing surveys",
         "sidebar_label": "Securing surveys"
+      },
+      "version-control": {
+        "title": "Version Control",
+        "sidebar_label": "Version Control"
       }
     },
     "links": {
@@ -43,6 +59,7 @@
     },
     "categories": {
       "LimeSurvey": "LimeSurvey",
+      "Metabase": "Metabase",
       "Infrastructure": "Infrastructure"
     }
   },

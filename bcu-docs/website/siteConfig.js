@@ -90,7 +90,7 @@ const siteConfig = {
 
   // Open Graph and Twitter card images.
   ogImage: "img/docusaurus.png",
-  twitterImage: "img/docusaurus.png"
+  twitterImage: "img/docusaurus.png",
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
@@ -101,6 +101,9 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
+
+  // Colapsible Categories 'https://docusaurus.io/docs/en/navigation#active-links-in-site-navigation-bar'
+  docsSideNavCollapsible: true
 };
 
 module.exports = siteConfig;

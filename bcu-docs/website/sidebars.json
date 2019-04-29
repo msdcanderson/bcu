@@ -5,12 +5,25 @@
       {
         "type": "subcategory",
         "label": "Editing surveys",
-        "ids": ["edit-text", "edit-questions", "new-questions"]
+        "ids": [
+          "edit-text",
+          "edit-questions",
+          "new-questions",
+          "version-control"
+        ]
       },
       {
         "type": "subcategory",
         "label": "Managing surveys",
         "ids": ["securing-surveys", "publishing-survey", "duplicate-survey"]
+      }
+    ],
+    "Metabase": [
+      "mb-overview",
+      {
+        "type": "subcategory",
+        "label": "Managing dashboards",
+        "ids": ["duplicate-dashboard"]
       }
     ],
     "Infrastructure": ["infrastructure"]

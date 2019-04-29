@@ -1,0 +1,13 @@
+---
+id: version-control
+title: Version Control
+sidebar_label: Version Control
+---
+
+## Version control
+
+The survey can be [downloaded](https://manual.limesurvey.org/Display/Export_survey) (exported) in *.lss format.
+
+The survey we developed has ID: 692579.  This survey is stored in a private GitLab repository and any corrections/updates are committed.
+
+When a new survey is needed, we can either duplicate a survey on LimeSurvey, or we can take the stored version.
