@@ -5,12 +5,12 @@
       {
         "type": "subcategory",
         "label": "Editing surveys",
-        "ids": ["edit-text"]
+        "ids": ["edit-text", "edit-questions", "new-questions"]
       },
       {
         "type": "subcategory",
         "label": "Managing surveys",
-        "ids": ["securing-surveys", "duplicate-survey"]
+        "ids": ["securing-surveys", "duplicate-survey", "publishing-survey"]
       }
     ],
     "Infrastructure": ["infrastructure"]

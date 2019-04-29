@@ -13,9 +13,9 @@
         "title": "Duplicate survey",
         "sidebar_label": "Duplicate survey"
       },
-      "securing-surveys": {
-        "title": "Securing surveys",
-        "sidebar_label": "Securing surveys"
+      "edit-questions": {
+        "title": "Edit questions",
+        "sidebar_label": "Edit questions"
       },
       "edit-text": {
         "title": "Editing survey text",
@@ -28,6 +28,14 @@
       "overview": {
         "title": "Overview BCU Data Collection",
         "sidebar_label": "Overview"
+      },
+      "publishing-survey": {
+        "title": "Publishing / Unpublishing Survey",
+        "sidebar_label": "Publishing / Unpublishing Survey"
+      },
+      "securing-surveys": {
+        "title": "Securing surveys",
+        "sidebar_label": "Securing surveys"
       }
     },
     "links": {
