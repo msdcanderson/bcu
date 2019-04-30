@@ -6,4 +6,4 @@ sidebar_label: Blank Template
 
 ## Header
 
-Some text
+[TODO]

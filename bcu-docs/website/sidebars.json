@@ -5,12 +5,7 @@
       {
         "type": "subcategory",
         "label": "Editing surveys",
-        "ids": [
-          "edit-text",
-          "edit-questions",
-          "new-questions",
-          "version-control"
-        ]
+        "ids": ["edit-text", "edit-questions", "version-control"]
       },
       {
         "type": "subcategory",
@@ -24,6 +19,11 @@
         "type": "subcategory",
         "label": "Managing dashboards",
         "ids": ["duplicate-dashboard"]
+      },
+      {
+        "type": "subcategory",
+        "label": "Dashboards",
+        "ids": ["mb-dashboards"]
       }
     ],
     "Admin": ["infrastructure", "upgrading", "backup"]

@@ -37,6 +37,10 @@
         "title": "Infrastructure",
         "sidebar_label": "Infrastructure"
       },
+      "mb-dashboards": {
+        "title": "Dashboards",
+        "sidebar_label": "Dashboards"
+      },
       "mb-overview": {
         "title": "Overview",
         "sidebar_label": "Overview"
