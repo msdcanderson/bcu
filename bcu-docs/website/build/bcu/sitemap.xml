@@ -3,6 +3,7 @@
 <url> <loc>https://msdcanderson.github.io/bcu/_index</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/en/_index" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/help</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/en/help" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/users</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/en/users" /> </url>
+<url> <loc>https://msdcanderson.github.io/bcu/docs/backup</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/backup" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/docs/bcu-getting-started</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/bcu-getting-started" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/docs/blank-template</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/blank-template" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/docs/duplicate-dashboard</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/duplicate-dashboard" /> </url>
@@ -14,5 +15,6 @@
 <url> <loc>https://msdcanderson.github.io/bcu/docs/overview</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/overview" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/docs/publishing-survey</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/publishing-survey" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/docs/securing-surveys</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/securing-surveys" /> </url>
+<url> <loc>https://msdcanderson.github.io/bcu/docs/upgrading</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/upgrading" /> </url>
 <url> <loc>https://msdcanderson.github.io/bcu/docs/version-control</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://msdcanderson.github.io/bcu/docs/version-control" /> </url>
 </urlset>

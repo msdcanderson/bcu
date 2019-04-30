@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "Documentation",
     "docs": {
+      "backup": {
+        "title": "Back Up",
+        "sidebar_label": "Back Up"
+      },
       "bcu-getting-started": {
         "title": "BCU-Survey Getting Started",
         "sidebar_label": "BCU-Survey Getting Started"
@@ -38,7 +42,7 @@
         "sidebar_label": "Overview"
       },
       "overview": {
-        "title": "Overview BCU Data Collection",
+        "title": "Overview",
         "sidebar_label": "Overview"
       },
       "publishing-survey": {
@@ -48,6 +52,10 @@
       "securing-surveys": {
         "title": "Securing surveys",
         "sidebar_label": "Securing surveys"
+      },
+      "upgrading": {
+        "title": "Upgrading",
+        "sidebar_label": "Upgrading"
       },
       "version-control": {
         "title": "Version Control",

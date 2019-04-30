@@ -26,6 +26,6 @@
         "ids": ["duplicate-dashboard"]
       }
     ],
-    "Admin": ["infrastructure"]
+    "Admin": ["infrastructure", "upgrading", "backup"]
   }
 }

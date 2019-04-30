@@ -1,11 +1,9 @@
 ---
 id: overview
-title: Overview BCU Data Collection
+title: Overview
 sidebar_label: Overview
 ---
 
-# Introduction
+## LimeSurvey
 
-## BCU-Survey
-
-[BCU-Survey URL](https://bcu-survey.growmycompany.co.uk)
+The BCU implementation of LimeSurvey can be accessed at: [BCU-Survey URL](https://bcu-survey.growmycompany.co.uk)

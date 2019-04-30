@@ -4,6 +4,6 @@ title: Overview
 sidebar_label: Overview
 ---
 
-## BCU-Metabase
+## Metabase
 
-[BCU-Metabase URL](https://bcu-metabase.growmycompany.co.uk)
+The BCU implementation of Metabase can be accessed at: [BCU-Metabase URL](https://bcu-metabase.growmycompany.co.uk)
