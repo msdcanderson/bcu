@@ -6,11 +6,12 @@ sidebar_label: Infrastructure
 
 ## Stack
 
-- Azure Linux VM
-- LimeSurvey v
-- Metabase v
-- GitLab private repo (survey & dashboard code)
-- GitHub (documentation)
+- [Azure](https://azure.microsoft.com/en-gb/) Linux VM
+- [LimeSurvey](https://www.limesurvey.org/) v
+- [Metabase](https://metabase.com/) v
+- [GitLab](https://gitlab.com/) private repo (survey & dashboard code)
+- [GitHub](https://github.com/) (host documentation)
+- [Docusaurus](https://docusaurus.io) (documentation)
 
 ## Upgrading LimeSurvey
 
