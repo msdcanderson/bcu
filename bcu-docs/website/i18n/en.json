@@ -33,25 +33,33 @@
         "title": "Editing survey text",
         "sidebar_label": "Editing survey text"
       },
-      "embedding-dashboard": {
-        "title": "Embedding Dashboard",
-        "sidebar_label": "Embedding Dashboard"
-      },
       "infrastructure": {
         "title": "Infrastructure",
         "sidebar_label": "Infrastructure"
       },
+      "ls-embedding-dashboard": {
+        "title": "Embedding Dashboard in LimeSurvey",
+        "sidebar_label": "Embedding Dashboard"
+      },
+      "ls-overview": {
+        "title": "Overview",
+        "sidebar_label": "Overview"
+      },
       "mb-dashboards": {
         "title": "Dashboards",
         "sidebar_label": "Dashboards"
+      },
+      "mb-embedding-dashboard": {
+        "title": "Embedding Dashboard",
+        "sidebar_label": "Embedding Dashboard"
       },
       "mb-overview": {
         "title": "Overview",
         "sidebar_label": "Overview"
       },
       "overview": {
-        "title": "Overview",
-        "sidebar_label": "Overview"
+        "title": "Project Overview",
+        "sidebar_label": "Project Overview"
       },
       "publishing-survey": {
         "title": "Publishing / Unpublishing Survey",
@@ -74,6 +82,7 @@
       "Docs": "Docs"
     },
     "categories": {
+      "Project Overview": "Project Overview",
       "LimeSurvey": "LimeSurvey",
       "Metabase": "Metabase",
       "Admin": "Admin"

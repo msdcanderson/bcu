@@ -1,7 +1,8 @@
 {
   "docs": {
+    "Project Overview": ["overview"],
     "LimeSurvey": [
-      "overview",
+      "ls-overview",
       {
         "type": "subcategory",
         "label": "Editing surveys",
@@ -10,7 +11,12 @@
       {
         "type": "subcategory",
         "label": "Managing surveys",
-        "ids": ["securing-surveys", "publishing-survey", "duplicate-survey"]
+        "ids": [
+          "securing-surveys",
+          "publishing-survey",
+          "duplicate-survey",
+          "ls-embedding-dashboard"
+        ]
       }
     ],
     "Metabase": [
@@ -18,7 +24,7 @@
       {
         "type": "subcategory",
         "label": "Managing dashboards",
-        "ids": ["duplicate-dashboard", "embedding-dashboard"]
+        "ids": ["duplicate-dashboard", "mb-embedding-dashboard"]
       },
       {
         "type": "subcategory",

@@ -1,5 +1,5 @@
 ---
-id: embedding-dashboard
+id: mb-embedding-dashboard
 title: Embedding Dashboard
 sidebar_label: Embedding Dashboard
 ---
