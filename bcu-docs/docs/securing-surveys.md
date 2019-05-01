@@ -23,14 +23,14 @@ To learn more about these settings, see: [Participant settings](https://manual.l
 
 Participants can be invited to the survey by email, see: [Email invitations](https://manual.limesurvey.org/Survey_participants#Invitations_.26_reminders)
 
-### Accessing survey multiple times
+## Accessing survey multiple times
 
 In order to access the survey more than once when your email address has been used, you can either:
 
 1. use another email account
 2. use a 'token'
 
-#### Using tokens
+### Using tokens
 
 I will provide you with a list of tokens. Each token can only be used once.
 
@@ -38,3 +38,7 @@ Replace the string `< your token here >` in this URL, and then navigate to the U
 `https://bcu-survey.growmycompany.co.uk/index.php/692579?token=< your token here >&newtest=Y&lang=en`
 
 A correct URL looks like: `https://bcu-survey.growmycompany.co.uk/index.php/692579?token=sEPydPwx9Xh4q1C&newtest=Y&lang=en`
+
+### Generating tokens
+
+Link to [generating tokens](https://manual.limesurvey.org/Survey_participants#Generate_tokens) in LimeSurvey.
