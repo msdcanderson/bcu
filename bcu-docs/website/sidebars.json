@@ -18,7 +18,7 @@
       {
         "type": "subcategory",
         "label": "Managing dashboards",
-        "ids": ["duplicate-dashboard"]
+        "ids": ["duplicate-dashboard", "embedding-dashboard"]
       },
       {
         "type": "subcategory",

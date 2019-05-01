@@ -33,6 +33,10 @@
         "title": "Editing survey text",
         "sidebar_label": "Editing survey text"
       },
+      "embedding-dashboard": {
+        "title": "Embedding Dashboard",
+        "sidebar_label": "Embedding Dashboard"
+      },
       "infrastructure": {
         "title": "Infrastructure",
         "sidebar_label": "Infrastructure"
