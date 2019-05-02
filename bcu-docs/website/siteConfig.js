@@ -82,7 +82,10 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ["https://buttons.github.io/buttons.js"],
+  scripts: [
+    "https://buttons.github.io/buttons.js",
+    "https://msdcanderson.github.io/docusaurus-open-link-new-tab.github.io/open-link-new-tab.js"
+  ],
 
   // On page navigation for the current documentation page.
   onPageNav: "separate",
