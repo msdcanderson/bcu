@@ -20,6 +20,9 @@ const users = [
   }
 ];
 
+// https://stackoverflow.com/a/55940426/5502986
+const extLink = require("remarkable-extlink");
+
 const siteConfig = {
   title: "BCU Data Collection", // Title for your website.
   tagline: "Documentation",
@@ -85,6 +88,15 @@ const siteConfig = {
   scripts: [
     "https://buttons.github.io/buttons.js",
     "https://msdcanderson.github.io/docusaurus-open-link-new-tab.github.io/open-link-new-tab.js"
+  ],
+
+  // Add plugins to Markdown
+  markdownPlugins: [
+    function(md) {
+      extLink(md, {
+        host: "yourhost.com" // The hrefs that you DON'T want to be external
+      });
+    }
   ],
 
   // On page navigation for the current documentation page.
