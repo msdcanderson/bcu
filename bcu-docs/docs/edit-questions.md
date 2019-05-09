@@ -43,3 +43,7 @@ Key:
 | x    | incremental number (1, 2, 3, ...)                 |
 | a    | incremental letters (a, b, c, ...)                |
 | f    | first letter of each word in the framework's name |
+
+## Validating changes
+
+New changes may introduce errors, it is always best to check the [survey logic file](https://manual.limesurvey.org/Show_logic_file) before publishing a survey with any edits.
