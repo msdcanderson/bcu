@@ -8,7 +8,7 @@ sidebar_label: Version Control
 
 The survey can be [downloaded](https://manual.limesurvey.org/Display/Export_survey) (exported) in *.lss format.
 
-The survey we developed has ID: 692579.  This survey is stored in a private GitLab repository and any corrections/updates are committed.
+The survey we developed has ID: 692579.  This survey is stored in a private GitLab repository and any corrections/updates are committed.  It can be considered the 'Master' template.  Q3 needs to be modified when the survey is run outside of the West Midlands.
 
 When a new survey is needed, we can either duplicate a survey on LimeSurvey, or we can take the stored version.
 
