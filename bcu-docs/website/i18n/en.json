@@ -41,6 +41,10 @@
         "title": "Embedding Dashboard in LimeSurvey",
         "sidebar_label": "Embedding Dashboard"
       },
+      "ls-mb-integration": {
+        "title": "LimeSurvey / Metabase Integration",
+        "sidebar_label": "LimeSurvey / Metabase Integration"
+      },
       "ls-overview": {
         "title": "Overview",
         "sidebar_label": "Overview"

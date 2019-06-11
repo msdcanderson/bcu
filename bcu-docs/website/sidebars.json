@@ -32,6 +32,6 @@
         "ids": ["mb-dashboards"]
       }
     ],
-    "Admin": ["infrastructure", "upgrading", "backup"]
+    "Admin": ["infrastructure", "ls-mb-integration", "upgrading", "backup"]
   }
 }
