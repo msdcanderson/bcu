@@ -17,6 +17,11 @@
           "duplicate-survey",
           "ls-embedding-dashboard"
         ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Results",
+        "ids": ["receive-results"]
       }
     ],
     "Metabase": [

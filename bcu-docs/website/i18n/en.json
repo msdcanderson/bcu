@@ -49,6 +49,10 @@
         "title": "Overview",
         "sidebar_label": "Overview"
       },
+      "receive-results": {
+        "title": "Receiving results",
+        "sidebar_label": "Receiving results"
+      },
       "mb-dashboards": {
         "title": "Dashboards",
         "sidebar_label": "Dashboards"
