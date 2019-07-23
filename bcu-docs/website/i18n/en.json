@@ -53,6 +53,10 @@
         "title": "Receiving results",
         "sidebar_label": "Receiving results"
       },
+      "testing-surveys": {
+        "title": "Testing Surveys",
+        "sidebar_label": "Testing Surveys"
+      },
       "mb-dashboards": {
         "title": "Dashboards",
         "sidebar_label": "Dashboards"

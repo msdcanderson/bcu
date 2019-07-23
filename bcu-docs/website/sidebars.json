@@ -13,6 +13,7 @@
         "label": "Managing surveys",
         "ids": [
           "securing-surveys",
+          "testing-surveys",
           "publishing-survey",
           "duplicate-survey",
           "ls-embedding-dashboard"
