@@ -37,6 +37,10 @@
         "title": "Infrastructure",
         "sidebar_label": "Infrastructure"
       },
+      "download-results": {
+        "title": "Download results",
+        "sidebar_label": "Download results"
+      },
       "ls-embedding-dashboard": {
         "title": "Embedding Dashboard in LimeSurvey",
         "sidebar_label": "Embedding Dashboard"

@@ -22,7 +22,7 @@
       {
         "type": "subcategory",
         "label": "Results",
-        "ids": ["receive-results"]
+        "ids": ["receive-results", "download-results"]
       }
     ],
     "Metabase": [
