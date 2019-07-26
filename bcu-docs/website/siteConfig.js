@@ -27,11 +27,11 @@ const siteConfig = {
   title: "BCU Data Collection", // Title for your website.
   tagline: "Documentation",
   // For github.io domain:
-  //url: "https://msdcanderson.github.io", // Your website URL
-  //baseUrl: "/bcu/", // Base URL for your project */
+  url: "https://msdcanderson.github.io", // Your website URL
+  baseUrl: "/bcu/", // Base URL for your project */
   // For custom domain:
-  url: "https://bcu-docs.growmycompany.co.uk", // Your website URL
-  baseUrl: "/", // Base URL for your project */
+  //url: "https://bcu-docs.growmycompany.co.uk", // Your website URL
+  // baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
