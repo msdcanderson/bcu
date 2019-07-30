@@ -47,3 +47,41 @@ Metabase -> user : chart is displayed
 @enduml
 ```
 
+## Flowchart 2
+
+```uml
+@startuml
+autonumber
+
+skinparam sequence {
+	ArrowColor #005B7B
+	ActorBorderColor #005B7B
+	LifeLineBorderColor #005B7B
+	ParticipantBorderColor #005B7B
+}
+
+title Deactivate survey process
+
+actor admin
+participant LimeSurvey
+participant LimeSurvey_plugin
+database Lime_survey_692579
+database hrview_692579
+
+note over LimeSurvey_plugin : Human readable view plugin\ncreated by BankSearch
+note over Lime_survey_692579 : Table created by LimeSurvey
+note over hrview_692579 : Human readable table\ncreated by LimeSurvey_plugin
+
+admin -> LimeSurvey : close Survey
+create database "lime_old_692579_<datetime>"
+LimeSurvey -> "lime_old_692579_<datetime>" : table lime_survey_692579 is renamed
+
+note over Lime_survey_692579 : Table no longer exists
+
+create database "hrview_old_692579_<datetime>"
+LimeSurvey_plugin -> "hrview_old_692579_<datetime>" : table hrview_692579 is renamed
+
+note over hrview_692579 : Table no longer exists
+
+@enduml
+```
