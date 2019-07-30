@@ -33,6 +33,10 @@
         "title": "Editing survey text",
         "sidebar_label": "Editing survey text"
       },
+      "flowcharts": {
+        "title": "Flowcharts",
+        "sidebar_label": "Flowcharts"
+      },
       "infrastructure": {
         "title": "Infrastructure",
         "sidebar_label": "Infrastructure"

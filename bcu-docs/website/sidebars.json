@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Project Overview": ["overview"],
+    "Project Overview": ["overview", "flowcharts"],
     "LimeSurvey": [
       "ls-overview",
       {

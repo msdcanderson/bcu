@@ -100,6 +100,9 @@ const siteConfig = {
       extLink(md, {
         host: "yourhost.com" // The hrefs that you DON'T want to be external
       });
+    },
+    md => {
+      require("remarkable-plantuml")(md, { base_path: "./static" });
     }
   ],
 
