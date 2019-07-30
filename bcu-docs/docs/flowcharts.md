@@ -90,3 +90,75 @@ note over Metabase: Dashboard is no longer\nconnected to a table
 ```
 
 To connect the dashboard to view the data, we need to copy the Metabase dashboard, and point it to table `hrview_old_<datetime>`
+
+## Flowchart 3
+
+```uml
+@startuml
+autonumber
+
+skinparam sequence {
+	ArrowColor #005B7B
+	ActorBorderColor #005B7B
+	LifeLineBorderColor #005B7B
+	ParticipantBorderColor #005B7B
+}
+
+title Re-activate existing survey process
+
+actor admin
+participant LimeSurvey
+participant LimeSurvey_plugin
+participant Metabase
+
+note over LimeSurvey_plugin : Human readable view plugin\ncreated by BankSearch
+note over Metabase : Dashboards connects\nto table hrview_692579\nwhich does not yet exist
+
+admin -> LimeSurvey : Activate survey
+create database lime_survey_692579
+LimeSurvey -> lime_survey_692579 : Table is created
+create database hrview_692579
+LimeSurvey_plugin -> hrview_692579 : Table is created
+note over Metabase : Dashboards connects\nto table hrview_692579\nwhich now exists
+
+@enduml
+```
+
+## Flowchart 4
+
+```uml
+@startuml
+
+autonumber
+
+skinparam sequence {
+	ArrowColor #005B7B
+	ActorBorderColor #005B7B
+	LifeLineBorderColor #005B7B
+	ParticipantBorderColor #005B7B
+}
+
+title Duplicate existing survey process
+
+actor admin
+participant LimeSurvey
+participant LimeSurvey_plugin
+participant Metabase
+
+note over LimeSurvey_plugin : Human readable view plugin\ncreated by BankSearch
+note over Metabase : Dashboards connects to\ntable hrview_692579 which\ndoes not contain the data\nfrom the new survey
+
+admin -> LimeSurvey : Duplicate survey
+create database "lime_survey_<random ID>"
+LimeSurvey -> "lime_survey_<random ID>" : Table is created
+create database "hrview_<random ID>"
+LimeSurvey_plugin -> "hrview_<random ID>" : Table is created
+create actor BankSearch
+admin -> BankSearch : Request Dashboard duplication
+create participant MetabaseManager
+BankSearch -> MetabaseManager : Request dashboard duplication
+MetabaseManager -> Metabase : Dashboard is duplicated
+note over Metabase : Dashboards connects to\ntable "hrview_<random ID>"\nwhich contains the data\nfrom the new survey
+
+@enduml
+```
